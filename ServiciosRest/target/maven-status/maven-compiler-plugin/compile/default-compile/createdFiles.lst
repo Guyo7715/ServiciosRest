@@ -1,0 +1,11 @@
+com\servres\entity\Paciente.class
+com\servres\entity\PacienteDto.class
+com\servres\entity\Cita.class
+com\servres\repository\RepPaciente.class
+com\servres\impServices\IServicioPaciente.class
+com\servres\repository\RepMedicina.class
+com\servres\restControllers\PacienteControllers.class
+com\servres\entity\Medicina.class
+com\servres\services\PacienteService.class
+com\servres\entity\Medico.class
+com\servres\ServiciosRestApplication.class
